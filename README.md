@@ -1,3 +1,5 @@
+# moved to codeberg: https://codeberg.org/9vlc
+
 <p align=center>
     <img src="banner_trim.png">
 </p>
